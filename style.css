@@ -1,0 +1,15 @@
+#search{
+    align-items:flex-end;
+}
+
+footer{
+    background-color:black;
+    padding:25px;
+    color:white;
+    text-align: center;
+}
+form{
+    margin:25px;
+    border-radius: 5px solid white;
+}
+
